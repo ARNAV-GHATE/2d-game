@@ -4,7 +4,7 @@ This is Simple Ball Game Available for Android Mobile.
 <br>
 I made this project while learning Unity 3D enviroment as Begineer Level.
 <br>
-You can also Download apk file from given project and commit Give Suggestion .
+You can also Download apk file from given project and  Give Suggestions Regarding betterment of Game .
 <br>
 It wil be really Helpful
 
